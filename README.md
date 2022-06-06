@@ -31,7 +31,7 @@ synchronous_commit (enum):
 ![image](https://user-images.githubusercontent.com/87654857/172142834-603a05e8-97b4-4553-9018-7661b84f4aaa.png)
 
 
-> Листинг программы:
+## Листинг программы:
 
 ```
 
