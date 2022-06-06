@@ -7,7 +7,7 @@
  
  *- Токарева Виолетта*
  
- *- Худкова Елена*
+ *- Худякова Елена*
  
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/lQ7l3COBczbm8cC0WD/giphy.gif" width="500" height="400"/>
