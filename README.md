@@ -11,5 +11,5 @@
  
  
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/pride-movement-erma-fiend-lQ7l3COBczbm8cC0WD" width="300" height="300"/>
+  <img src="https://media.giphy.com/media/lQ7l3COBczbm8cC0WD/giphy.gif" width="300" height="300"/>
 </div>
