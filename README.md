@@ -10,3 +10,6 @@
  *- Худкова Елена*
  
  
+<div id="header" align="center">
+  <img src="https://giphy.com/gifs/pride-movement-erma-fiend-lQ7l3COBczbm8cC0WD" width="300" height="300"/>
+</div>
