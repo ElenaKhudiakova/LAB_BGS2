@@ -33,6 +33,8 @@ synchronous_commit (enum):
 
 > Листинг программы:
 
+```
+
 import os
 import psycopg2
 from psycopg2 import Error
@@ -89,4 +91,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+```
 
